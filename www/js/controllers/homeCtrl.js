@@ -1,3 +1,3 @@
-appControllers.controller('HomeCtrl', ['$scope', '$state'], function($scope, $state){
+appControllers.controller('HomeCtrl', ['$scope', '$state', function($scope, $state){
 	
 }]);

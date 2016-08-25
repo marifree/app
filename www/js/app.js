@@ -26,7 +26,6 @@ app.run(function($ionicPlatform) {
 app.config(function($stateProvider, $urlRouterProvider) {
 	$stateProvider.state('home', {
 		url: '/home',
-		abstract: true,
 		templateUrl: 'templates/home.html',
 		controller: 'HomeCtrl'
 	});
