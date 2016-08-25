@@ -1,0 +1,1 @@
+app.constant('SERVICE_URL', 'http://appmultiservizi.pre.3logic.it/api/v1/');
